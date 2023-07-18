@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.10 (pythonProject)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="01.FirstSteps-exercise" />
+    <orderEntry type="module" module-name="01.Additional Exercises" />
+    <orderEntry type="module" module-name="02.Лаб- Условни конструкции" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 28 and 29 March 2020" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 18 and 19 July 2020" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 20 and 21 April 2019" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 9 and 10 March 2019" />
+    <orderEntry type="module" module-name="Programming Basics Online Retake Exam - 2 and 3 May 2019" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 15 and 16 June 2019" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 2019.04" />
+    <orderEntry type="module" module-name="Programming Basics Online Exam - 6 and 7 July 2019" />
+    <orderEntry type="module" module-name="02.PB-Python-Conditional-Statements-Exercise" />
+    <orderEntry type="module" module-name="02.Conditional Statements - More Exercises" />
+    <orderEntry type="module" module-name="03.Conditional Statements Advanced - Lab" />
+    <orderEntry type="module" module-name="03.Conditional Statements Advanced - Exercise" />
+    <orderEntry type="module" module-name="03.Conditional Statements Advanced - More Exercises" />
+    <orderEntry type="module" module-name="04.For Loop-Lab" />
+    <orderEntry type="module" module-name="04.For Loop-Exercise" />
+    <orderEntry type="module" module-name="04.For Loop - More Exercises" />
+    <orderEntry type="module" module-name="05.While Loop-Lab" />
+    <orderEntry type="module" module-name="05.While Loop - Exrcise" />
+    <orderEntry type="module" module-name="05.While Loop - More Exercises" />
+    <orderEntry type="module" module-name="06.Nested Loops-Lab" />
+    <orderEntry type="module" module-name="06.Nested Loops-Exercise" />
+    <orderEntry type="module" module-name="06.Nested Loops-More Exercises" />
+    <orderEntry type="module" module-name="Programming Basics Online Pre - Exam - 22 and 23 April 2023" />
+  </component>
+</module>

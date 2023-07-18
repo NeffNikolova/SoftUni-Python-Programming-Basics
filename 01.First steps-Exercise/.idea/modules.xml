@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Additional Exercises/.idea/Additional Exercises.iml" filepath="$PROJECT_DIR$/../Additional Exercises/.idea/Additional Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstSteps-exercise.iml" filepath="$PROJECT_DIR$/.idea/FirstSteps-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyFirstProject/.idea/FirstSteps-lab.iml" filepath="$PROJECT_DIR$/../MyFirstProject/.idea/FirstSteps-lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Programming Basics Online Exam - 18 and 19 July 2020/.idea/Programming Basics Online Exam - 18 and 19 July 2020.iml" filepath="$PROJECT_DIR$/../Programming Basics Online Exam - 18 and 19 July 2020/.idea/Programming Basics Online Exam - 18 and 19 July 2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Programming Basics Online Exam - 28 and 29 March 2020/.idea/Programming Basics Online Exam - 28 and 29 March 2020.iml" filepath="$PROJECT_DIR$/../Programming Basics Online Exam - 28 and 29 March 2020/.idea/Programming Basics Online Exam - 28 and 29 March 2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Лаб- Условни конструкции/.idea/Лаб- Условни конструкции.iml" filepath="$PROJECT_DIR$/../Лаб- Условни конструкции/.idea/Лаб- Условни конструкции.iml" />
+    </modules>
+  </component>
+</project>
